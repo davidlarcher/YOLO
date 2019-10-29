@@ -1,0 +1,5 @@
+#ignore the venv package files
+env/
+
+# ignore bytecode
+__pycache__/

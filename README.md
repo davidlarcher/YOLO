@@ -1,7 +1,11 @@
 # YOLO
 YOLO algorithm for computer vision 
 
-1 - first clone this repository
+1 - install git-lfs on that device (per local repository) because it contains a large pre-trained model
+
+2 - Clone this repository
+
+git clone link
 
 2- create a virtualenv
 

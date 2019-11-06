@@ -7,18 +7,18 @@ YOLO algorithm for computer vision
 
 git clone link
 
-2- create a virtualenv
+3- create a virtualenv
 
 virtualenv env
 
-3- activate the env:
+4 - activate the env:
 
 source env/bin/activate
 
-4- install the required packages
+5 - install the required packages
 
 pip install -r requirements.txt
 
-5- run the python file
+6 - run the python file
 
 python3 car-detection.py

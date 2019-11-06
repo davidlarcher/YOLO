@@ -3,6 +3,8 @@ YOLO algorithm for computer vision
 
 1 - install git-lfs on that device (per local repository) because it contains a large pre-trained model
 
+git lfs install
+
 2 - Clone this repository
 
 git clone link
